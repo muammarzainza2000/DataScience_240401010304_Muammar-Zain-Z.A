@@ -1,9 +1,9 @@
 Mata Kuliah Data Science UNSIA
 
-Nama: Muammar Zain Z.A
-NIM: 240401010304
-Kelas: IF 401
-Prodi: PJJ Informatika
+Nama: Muammar Zain Z.A <br>
+NIM: 240401010304 <br>
+Kelas: IF 401 <br>
+Prodi: PJJ Informatika <br>
 
 Perkenalkan saya Muammar Zain Z.A mahasiswa PJJ informatika dari Universitas Siber Asia dan sekarang berdomisili di Makassar, Sulawesi Selatan. Repository ini berisi 7 file notebook mengenai materi hands-on / praktek mata kuliah data science. Berisi notebook mengenai sintaks dasar dan logika pemrograman dasar python, lalu mempelajari library library python untuk data science dan struktur data python, kemudian membersihkan data dengan mengidentifikasi dan mengatasi missing values, duplikasi data dan outlier. Setelah data dibersihkan lalu data diolah dengan statistika dasar dan menghasilkan distribusi data dan korelasi data. Lalu kemudian hasil olahan statistk dari data divisualisasikan sesuai kebutuhan.
 Selain itu di data science ini akan belajar untuk menyiapkan data untuk dipelajari oleh mesin (machine learning). Data yang telah disiapkan kemudian dilatih dan di tes apakah prediksi nya akurat atau tidak. Jika sudah akurat maka bisa digunakan untuk memprediksi data lain tanpa perlu diuji lagi.
