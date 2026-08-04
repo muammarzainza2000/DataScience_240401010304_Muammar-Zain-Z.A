@@ -1,4 +1,4 @@
-# Data Science Portfolio — Universitas Siber Asia (UNSIA)
+# Data Science — Universitas Siber Asia (UNSIA)
 
 **Nama**: Muammar Zain Z.A  
 **NIM**: 240401010304  
@@ -23,7 +23,7 @@ Pertemuan 9 - Algoritma Klasifikasi Bag. 1 -> https://colab.research.google.com/
 Pertemuan 10 - Algoritma Klasifikasi Bag. 2 -> https://colab.research.google.com/drive/1ut52dPj1yGFVp7tL4L0rgRb_ooyn7WQR?usp=sharing <br>
 Pertemuan 11 - Unsupervised Learning: K-Means & Hierarchical Clustering -> https://colab.research.google.com/drive/1gGE6UsFBLF9kHOHHeWqG5M6FSrA_30TK?usp=sharing <br>
 Pertemuan 12 - Asosiasi Data: Apriori & Sistem Rekomendasi -> https://colab.research.google.com/drive/10GfkL0ugjt1EKJD8zXkXdiXC4G_mGKws?usp=sharing <br>
-Pertemuan 13 - Deep Learning & NLP Dasar: ANN & TF-IDF -> https://colab.research.google.com/drive/1XySVzdjyhrInOEBbHL2jonqitEWN5Km9?usp=sharing <br>
+Pertemuan 13 - Deep Learning & NLP Dasar: ANN & TF-IDF -> https://colab.research.google.com/drive/1uACOvu9FRRyw2t2XHCupVoEi3eIPFmwR?usp=sharing <br>
 
 ## Tools dan library yang digunakan:
 1. Python
