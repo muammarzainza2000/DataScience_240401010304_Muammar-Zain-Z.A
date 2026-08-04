@@ -1,9 +1,12 @@
-Mata Kuliah Data Science UNSIA
+# Data Science Portfolio — Universitas Siber Asia (UNSIA)
 
-Nama: Muammar Zain Z.A <br>
-NIM: 240401010304 <br>
-Kelas: IF 401 <br>
-Prodi: PJJ Informatika <br>
+**Nama**: Muammar Zain Z.A  
+**NIM**: 240401010304  
+**Kelas**: IF 401  
+**Prodi**: PJJ Informatika  
+**Dosen Pengampu**: Syahid Abdullah, S.Si, M.Kom
+
+---
 
 Perkenalkan saya Muammar Zain Z.A mahasiswa PJJ informatika dari Universitas Siber Asia dan sekarang berdomisili di Makassar, Sulawesi Selatan. Repository ini berisi 7 file notebook mengenai materi hands-on / praktek mata kuliah data science. Berisi notebook mengenai sintaks dasar dan logika pemrograman dasar python, lalu mempelajari library library python untuk data science dan struktur data python, kemudian membersihkan data dengan mengidentifikasi dan mengatasi missing values, duplikasi data dan outlier. Setelah data dibersihkan lalu data diolah dengan statistika dasar dan menghasilkan distribusi data dan korelasi data. Lalu kemudian hasil olahan statistk dari data divisualisasikan sesuai kebutuhan.
 Selain itu di data science ini akan belajar untuk menyiapkan data untuk dipelajari oleh mesin (machine learning). Data yang telah disiapkan kemudian dilatih dan di tes apakah prediksi nya akurat atau tidak. Jika sudah akurat maka bisa digunakan untuk memprediksi data lain tanpa perlu diuji lagi.
@@ -16,6 +19,11 @@ Pertemuan 4 - Statistika Dasar & Analisis Data -> https://colab.research.google.
 Pertemuan 5 - Visualisasi Data -> https://colab.research.google.com/drive/13SHg0Z17EPxAVGIdvBUwp65Y4tmea0-J?usp=sharing <br>
 Pertemuan 6 - Persiapan Data -> https://colab.research.google.com/drive/105y2FMTtKoQ7NDDS_Fj7oXJDD-7Kiljp?usp=sharing <br>
 Pertemuan 7 - Pengantar Machine Learning: Regresi Linier -> https://colab.research.google.com/drive/1XySVzdjyhrInOEBbHL2jonqitEWN5Km9?usp=sharing <br>
+Pertemuan 9 - Algoritma Klasifikasi Bag. 1 -> https://colab.research.google.com/drive/1L4ZRRNV4D-8ZdcBSMcRo9NOO-KBBkqPA?usp=sharing <br>
+Pertemuan 10 - Algoritma Klasifikasi Bag. 2 -> https://colab.research.google.com/drive/1XySVzdjyhrInOEBbHL2jonqitEWN5Km9?usp=sharing <br>
+Pertemuan 11 - Unsupervised Learning: K-Means & Hierarchical Clustering -> https://colab.research.google.com/drive/1XySVzdjyhrInOEBbHL2jonqitEWN5Km9?usp=sharing <br>
+Pertemuan 12 - Asosiasi Data: Apriori & Sistem Rekomendasi -> https://colab.research.google.com/drive/1XySVzdjyhrInOEBbHL2jonqitEWN5Km9?usp=sharing <br>
+Pertemuan 13 - Deep Learning & NLP Dasar: ANN & TF-IDF -> https://colab.research.google.com/drive/1XySVzdjyhrInOEBbHL2jonqitEWN5Km9?usp=sharing <br>
 
 Tools dan library yang digunakan:
 1. Python
@@ -27,6 +35,8 @@ Tools dan library yang digunakan:
 7. Seaborn
 8. Stats
 9. Scikit-learn
+10. mlxtend
+11. SciPy
 
 Cara menjalankan colab:
 1. Buka notebook yang diinginkan di link yang tertera diatas.
